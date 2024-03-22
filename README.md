@@ -13,5 +13,6 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaqibbhasanie&show_icons=true&locale=en" alt="aaqibbhasanie" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AaqibbHasanie&" alt="AaqibbHasanie" /></p>
 
 - See my favorite projects in the pinned repo below:
