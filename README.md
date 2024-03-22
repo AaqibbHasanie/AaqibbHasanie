@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring AI-empowered Full Stack Developer.</h3>
 
 
-<h4 align="left">I am currently in the last semester of my Undergraduate degree in Computer Science at Lahore University of Management Sciences. I possess deep interest in building scale web-applications using MERN, PHP/Laravel and Wordpress. I am also a beginner in learning how to incorporate machine learning models inside web-applications. Let's connect: https://www.linkedin.com/in/aaqibhasanie</h4>
+<h4 align="left">I am currently in the last semester of my Undergraduate degree in Computer Science at Lahore University of Management Sciences. I possess deep interest in building scale web-applications using MERN, PHP/Laravel and Wordpress. I am also proficient in building deep learning neural networks and incorporating them inside inside web-applications. Let's connect: https://www.linkedin.com/in/aaqibhasanie</h4>
 <p align="left">
 </p>
 
